@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Elton Mejía
 
-<!--
-**minuselton13-lgtm/minuselton13-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Economics student at the University of Costa Rica with a strong interest in data analysis.  
+I am currently developing practical skills in Excel by building projects focused on data organization, analysis, and visualization.  
 
-Here are some ideas to get you started:
+##  Skills
+- Excel (Intermediate)
+- SQL (learning)
+- Power BI (learning)
+- Python (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- (Aquí luego agregas links a tus proyectos)
+
+##  Connect with me
+- LinkedIn: (www.linkedin.com/in/elton-david-mejía-torres-39240537a)
