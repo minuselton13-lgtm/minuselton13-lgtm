@@ -13,4 +13,4 @@ I am currently developing practical skills in Excel by building projects focused
 - (Aquí luego agregas links a tus proyectos)
 
 ##  Connect with me
-- LinkedIn: (www.linkedin.com/in/elton-david-mejía-torres-39240537a)
+- LinkedIn: www.linkedin.com/in/elton-david-mejía-torres-39240537a
